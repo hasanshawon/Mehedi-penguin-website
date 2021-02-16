@@ -1,6 +1,12 @@
 .custom-card img{
    width: 150px;
-   height 130px;
+   height: 300px;
+   margin: 5px;
+   padding: 10px;
+}
+.custom-card yellow img{
+   width: 200px;
+   height: 300px;
    margin: 5px;
    padding: 10px;
 }
